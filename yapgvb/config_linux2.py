@@ -1,5 +1,5 @@
 
-use_boost = True
+use_boost = False
 
 
 library_dirs = [
